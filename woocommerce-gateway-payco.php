@@ -399,7 +399,7 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
                     $epaycoButtonImage = 'https://369969691f476073508a-60bf0867add971908d4f26a64519c2aa.ssl.cf5.rackcdn.com/btns/btn7.png';
 
                 }else{
-                    $msgEpaycoCheckout = '<span class="animated-points">Cargando metodos de pago</span>
+                    $msgEpaycoCheckout = '<span class="animated-points">Cargando métodos de pago</span>
                     <br><small class="epayco-subtitle"> Si no se cargan automáticamente, de clic en el botón "Pagar con ePayco</small>';
                     $epaycoButtonImage = 'https://369969691f476073508a-60bf0867add971908d4f26a64519c2aa.ssl.cf5.rackcdn.com/btns/epayco/boton_de_cobro_epayco6.png';
                 }
